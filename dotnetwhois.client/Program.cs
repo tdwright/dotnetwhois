@@ -15,7 +15,7 @@ namespace dotnetwhois
             else
             {
                 // Try to load from a GitHub profile
-                loader = new LocalCardLoader();
+                loader = new GithubCardLoader(args[0]);
             }
             var card = loader.LoadCard();
             Console.Write(card);
