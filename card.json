@@ -1,4 +1,25 @@
 {
-    "UserName": "tdwright",
-    "DisplayName": "Tom Wright"
+  "UserName": "tdwright",
+  "DisplayName": "Tom Wright",
+  "CardLines": [
+    {
+      "Contents": "Some sort of bio here that stretches the whole thing out"
+    },
+    {
+      "Label": "Email",
+      "Contents": "tom@tdwright"
+    },
+    {
+      "Label": "Work",
+      "Contents": "HeadUpLabs"
+    },
+    {
+      "Label": "Twitter",
+      "Contents": "@tdwright"
+    },
+    {
+      "Label": "Phone",
+      "Contents": "+61 451 040 166"
+    }
+  ]
 }
